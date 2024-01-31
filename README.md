@@ -36,18 +36,8 @@
 
 ### GitHub Stats:
 
-<div align="center">
-    <a href="https://github.com/burhanuddin-2001/github-readme-stats">
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=burhanuddin-2001&show_icons=true&locale=en" alt="burhanuddin-2001" />
-    </a>
-    <a href="https://github.com/burhanuddin-2001/github-readme-stats">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=burhanuddin-2001&show_icons=true&locale=en&layout=compact" alt="burhanuddin-2001" />
-    </a>
-</div>
+[![Burhanuddin's GitHub stats](https://github-readme-stats.vercel.app/api?username=burhanuddin-2001&show_icons=true&theme=dark&hide_border=true)](https://github.com/burhanuddin-2001/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Burhanuddin-2001&theme=dark&hide_border=true&border_radius=5)](https://git.io/streak-stats)
 
-<div align="center">
-    <a href="https://github.com/burhanuddin-2001/github-readme-streak-stats">
-        <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=burhanuddin-2001&" alt="burhanuddin-2001" />
-    </a>
-</div>
+
 
