@@ -39,19 +39,6 @@
 [![Burhanuddin's GitHub stats](https://github-readme-stats.vercel.app/api?username=burhanuddin-2001&show_icons=true&theme=dark&hide_border=true)](https://github.com/burhanuddin-2001/github-readme-stats)
 [![GitHub Streak](https://streak-stats.demolab.com?user=Burhanuddin-2001&theme=dark&hide_border=true&border_radius=5)](https://git.io/streak-stats)
 
-## GSSOC(24) Badges 🪶
-<div style='display:flex; align-items:center; gap: 10px;' align='center'>
-<img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/1.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/2.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/3.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/4.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/5.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/6.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/7.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/8.png" width="100px" height="100px" />
-</div>
-
 ## Professional Certifications
 <div style='display:flex; align-items:center; gap: 20px;' align='left'>
   <img src="https://raw.githubusercontent.com/Burhanuddin-2001/Badges/main/Docker_Essentials_-_ISDN.png" width="100px" height="100px" />
