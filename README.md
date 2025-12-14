@@ -1,68 +1,96 @@
-<img src="https://142972.fs1.hubspotusercontent-na1.net/hub/142972/hubfs/Imported_Blog_Media/ads-cs2_edit_0.gif?width=1236&name=ads-cs2_edit_0.gif" alt="Banner Image" width="100%" height="300">
+<img src="https://142972.fs1.hubspotusercontent-na1.net/hub/142972/hubfs/Imported_Blog_Media/ads-cs2_edit_0.gif?width=1236&name=ads-cs2_edit_0.gif" alt="Banner" width="100%" height="260" />
 
-# <div align="center">👋 Hello World, I'm Burhanuddin</div>
-<div align="center"><b>AI Engineer | Python Developer | Cybersecurity Specialist</b></div>
+<h1 align="center">Hi, I'm Burhanuddin</h1>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/AI-Engineer-blue" />
-  <img src="https://img.shields.io/badge/Python-Expert-yellow" />
-  <img src="https://img.shields.io/badge/Cybersecurity-Guardian-red" />
-</p>
-
-## 🧠 About Me
-
-Building intelligent systems with a security-first mindset. Leveraging Python and AI to solve complex problems while ensuring robust protection mechanisms. Constantly exploring the intersection of artificial intelligence and cybersecurity.
-
-- 🔭 **Current Projects:** Developing WebMind (AI search assistant) and network analysis tools
-- 🌱 **Learning:** LLM integration, network traffic analysis, and advanced web scraping
-- 💡 **Interests:** AI agents, Local LLMs, Network Security, Machine Learning, Neural Networks, Ethical Hacking
-- 🚀 **Goals:** Building privacy-focused AI solutions that prioritize security and user control
-
-## 🛠️ Tech Stack
-
-<p align="left">
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img alt="LLMs" src="https://img.shields.io/badge/LLMs-FF6F00?style=for-the-badge&logo=openai&logoColor=white" />
-  <img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
-  <img alt="Selenium" src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
-  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img alt="TCPDUMP" src="https://img.shields.io/badge/TCPDUMP-4479A1?style=for-the-badge&logo=wireshark&logoColor=white" />
-  <img alt="Scrapy" src="https://img.shields.io/badge/Scrapy-60A839?style=for-the-badge&logo=scrapy&logoColor=white" />
-</p>
-
-## 📊 GitHub Stats
+<p align="center"><b>I build like an engineer—and review like an adversary.</b></p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=burhanuddin-2001&show_icons=true&theme=react&hide_border=true&count_private=true" width="48%" alt="Burhanuddin's GitHub Stats" />
-  <img src="https://streak-stats.demolab.com?user=Burhanuddin-2001&theme=react&hide_border=true&border_radius=5" width="48%" alt="GitHub Streak" />
+Security is the lens; systems are the playground. I don’t just use tools—I build small ones to understand what’s underneath, then I try to break the assumptions.
 </p>
 
-## 🔒 Certifications & Expertise
+<hr/>
+
+<h2>Proof (selected builds)</h2>
+
+<p><b>Tip:</b> Every project title below is a link (click to inspect).</p>
+
+<ul>
+  <li>
+    <b><a href="https://github.com/Burhanuddin-2001/WebMind">WebMind ↗</a></b><br/>
+    Privacy-focused web assistant using locally-hosted LLMs; built to understand retrieval, orchestration, and controlled tool use.
+  </li>
+  <br/>
+  <li>
+    <b><a href="https://github.com/Burhanuddin-2001/W0RM-simulator">W0RM-simulator ↗</a></b><br/>
+    Controlled worm-behavior simulation to study replication patterns and failure modes in a safe sandbox.
+  </li>
+  <br/>
+  <li>
+    <b><a href="https://github.com/Burhanuddin-2001/Wordlist_Generator">Wordlist_Generator (CLI) ↗</a></b><br/>
+    Target-driven password auditing wordlists from a short seed list + reconnaissance-derived traits (repeatable, controlled expansion).
+  </li>
+  <br/>
+  <li>
+    <b><a href="https://github.com/Burhanuddin-2001/TCPDUMP-Playbook-A-Hands-On-Guide-to-Network-Traffic-Analysis">TCPDUMP Playbook ↗</a></b><br/>
+    Hands-on network traffic analysis notes (tcpdump) for learning how real traffic behaves.
+  </li>
+  <br/>
+  <li>
+    <b><a href="https://github.com/Burhanuddin-2001/Offliner-Youtube-Downloader-Version-0.2">Offliner (Windows Tkinter GUI) ↗</a></b><br/>
+    Offline YouTube downloader built to reduce recommendation-driven distraction and procrastination (local, simple workflow).
+  </li>
+</ul>
+
+<hr/>
+
+<h2>If you’re looking for…</h2>
+
+<p>Someone who:</p>
+
+- Builds close to the metal (Linux, networks, packets) and automates security work into repeatable tooling.
+- Treats tools as things to inspect and re-build—not just install—because understanding beats memorizing.
+- Can bring an adversarial mindset without losing engineering discipline (constraints, reproducibility, and clean interfaces).
+- Is multi-interested: happy to step into AI systems / robotics work when there’s a real feedback loop—test, measure, break, fix, repeat.
+
+<hr/>
+
+<h2>Credentials (verifiable)</h2>
+
+<p><b>Each item is a link.</b></p>
+
+- <a href="https://www.credly.com/badges/2a68b0ee-dadb-4534-8c11-a16567954749/public_url"><b>RHCSA</b> (Red Hat Certified System Administrator) ↗</a>
+- <a href="https://learn.microsoft.com/en-us/users/burhanuddin-9822/credentials/68817172ad31e9b1?ref=https://www.linkedin.com/"><b>Microsoft AI-102</b> ↗</a>
+- <a href="https://www.coursera.org/account/accomplishments/professional-cert/CKRL2U7ATYVS"><b>Google Cybersecurity Professional Certificate</b> ↗</a>
+- <b>Pursuing:</b> CAPIJ (Certified API Hacking Junior)
+
+<hr/>
+
+<h2>Connect</h2>
+
+<p>
+<b>LinkedIn:</b> <a href="https://www.linkedin.com/in/burhanuddin-cyber">burhanuddin-cyber ↗</a><br/>
+<b>Email:</b> <a href="mailto:burhanuddin122001@gmail.com">burhanuddin122001@gmail.com</a>
+</p>
 
 <p align="left">
-  <img src="https://github.com/Burhanuddin-2001/Badges/blob/main/google%20cybersecurity%20badge.png" width="90px" height="90px" alt="Google Cybersecurity" />
-  <img src="https://github.com/Burhanuddin-2001/Badges/blob/main/redhat%20system%20administrator%20badge.png" width="90px" height="90px" alt="Red Hat System Administrator" />
-  <img src="https://github.com/Burhanuddin-2001/Badges/blob/main/Docker_Essentials_-_ISDN.png" width="90px" height="90px" alt="Docker Essentials" />
-  <img src="https://github.com/Burhanuddin-2001/Badges/blob/main/I2CS__1_.png" width="90px" height="90px" alt="I2CS" />
-  <img src="https://github.com/Burhanuddin-2001/Badges/blob/main/Networking_Basics_badge.png" width="90px" height="90px" alt="Network Basics" />
+  <a href="https://www.hackerrank.com/burhanuddin12201" target="_blank">
+    <img alt="HackerRank" src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
+  </a>
+  <a href="https://www.leetcode.com/burhanuddin122001" target="_blank">
+    <img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
 </p>
 
-## 🔍 Featured Projects
+<hr/>
 
-- **[WebMind](https://github.com/Burhanuddin-2001/WebMind)**: An intelligent search assistant that leverages locally-hosted LLMs to provide privacy-focused answers from web content
-- **[TCPDUMP Project](https://github.com/Burhanuddin-2001/TCPDUMP-Playbook-A-Hands-On-Guide-to-Network-Traffic-Analysis)**: A comprehensive guide for network traffic analysis with practical examples and detailed packet decoding
-- **[YouTube Downloader](https://github.com/Burhanuddin-2001/Offliner-Youtube-Downloader-Version-0.2)**: Currently developing a tool to make content accessible offline with Python
-
-## 📫 Connect With Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/burhanuddin-cyber" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.hackerrank.com/burhanuddin12201" target="_blank"><img alt="HackerRank" src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
-  <a href="https://www.leetcode.com/burhanuddin122001" target="_blank"><img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
-  <a href="mailto:burhanuddin122001@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
-
----
-
-💬 **Always open to discussing AI, ML implementations, or cybersecurity strategies. Let's build something intelligent—and secure.**
+<details>
+  <summary><b>🔒 Certifications & Expertise (visual)</b></summary>
+  <br/>
+  <p align="left">
+    <img src="https://github.com/Burhanuddin-2001/Badges/blob/main/google%20cybersecurity%20badge.png" width="90px" height="90px" alt="Google Cybersecurity" />
+    <img src="https://github.com/Burhanuddin-2001/Badges/blob/main/redhat%20system%20administrator%20badge.png" width="90px" height="90px" alt="Red Hat System Administrator" />
+    <img src="https://github.com/Burhanuddin-2001/Badges/blob/main/Docker_Essentials_-_ISDN.png" width="90px" height="90px" alt="Docker Essentials" />
+    <img src="https://github.com/Burhanuddin-2001/Badges/blob/main/I2CS__1_.png" width="90px" height="90px" alt="I2CS" />
+    <img src="https://github.com/Burhanuddin-2001/Badges/blob/main/Networking_Basics_badge.png" width="90px" height="90px" alt="Network Basics" />
+  </p>
+</details>
