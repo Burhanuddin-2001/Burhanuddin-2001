@@ -8,38 +8,62 @@
 Security is the lens; systems are the playground. I don’t just use tools—I build small ones to understand what’s underneath, then I try to break the assumptions.
 </p>
 
+<p align="center">
+<b>Currently:</b> applying for an MS in Cybersecurity · building <a href="https://github.com/Burhanuddin-2001/Ghost-Gate">Ghost-Gate</a> · studying for CAPIJ
+</p>
+
 <hr/>
 
 <h2>Proof (selected builds)</h2>
 
-<p><b>Tip:</b> Every project title below is a link (click to inspect).</p>
+<ol>
+  <li>
+    <b><a href="https://github.com/Burhanuddin-2001/socket-scanner">socket-scanner ↗</a></b> · <i>Python, standard library only</i><br/>
+    Event-driven port scanner. No threads: raw non-blocking sockets, I/O multiplexing, and a min-heap for timeout management. Built to understand what nmap does under the hood.<br/>
+    <sub><b>Shows:</b> TCP/IP internals · sockets as OS file descriptors · network reconnaissance</sub>
+  </li>
+  <br/>
+  <li>
+    <b><a href="https://github.com/Burhanuddin-2001/Ghost-Gate">Ghost-Gate ↗</a></b> · <i>C++20, Win32 · in development</i><br/>
+    Self-hosted remote gateway: monitor, kill, and restart Windows processes from a phone over a direct P2P link. No third-party servers. WebRTC DataChannels with DTLS encryption, UDP hole punching, and password-gated access.<br/>
+    <sub><b>Shows:</b> secure remote-access design · NAT traversal · Windows internals (sessions, process control) · RAII memory safety</sub>
+  </li>
+  <br/>
+  <li>
+    <b><a href="https://github.com/Burhanuddin-2001/W0RM-simulator">W0RM-simulator ↗</a></b> · <i>Python</i><br/>
+    Controlled worm-behavior simulator for studying self-replication, process control, and persistence. Ships with a kill switch and is safe by design for sandboxed use only.<br/>
+    <sub><b>Shows:</b> malware architecture · persistence techniques · responsible, contained research</sub>
+  </li>
+  <br/>
+  <li>
+    <b><a href="https://github.com/Burhanuddin-2001/Wordlist_Generator">Wordlist_Generator (CLI) ↗</a></b> · <i>Python</i><br/>
+    Target-driven password-auditing wordlists from a short seed list. Using Multi-threading in producer & consumer model.<br/>
+    <sub><b>Shows:</b> password attack methodology · OSINT-driven profiling · CLI tooling</sub>
+  </li>
+  <br/>
+  <li>
+    <b><a href="https://github.com/Burhanuddin-2001/TCPDUMP-Playbook-A-Hands-On-Guide-to-Network-Traffic-Analysis">TCPDUMP Playbook ↗</a></b> · <i>Guide</i><br/>
+    Hands-on network traffic analysis notes for learning how real traffic behaves.<br/>
+    <sub><b>Shows:</b> packet analysis · traffic troubleshooting · blue-team fundamentals</sub>
+  </li>
+  <br/>
+  <li>
+    <b><a href="https://github.com/Burhanuddin-2001/WebMind">WebMind ↗</a></b> · <i>Python, local LLMs</i><br/>
+    Privacy-focused autonomous research agent using locally hosted LLMs: sequential RAG, a self-correcting evaluation loop, and process-isolated scraping.<br/>
+    <sub><b>Shows:</b> privacy-first AI design · process isolation · controlled tool use · vector embeddings</sub>
+  </li>
+  <br/>
+  <li>
+    <b><a href="https://github.com/Burhanuddin-2001/Botium-Toys-Security-Audit">Botium Toys Security Audit ↗</a></b> · <i>GRC report</i><br/>
+    Security audit with risk assessment, compliance checks, and actionable recommendations.<br/>
+    <sub><b>Shows:</b> risk assessment · compliance (governance, risk, compliance) · security reporting</sub>
+  </li>
+</ol>
 
-<ul>
-  <li>
-    <b><a href="https://github.com/Burhanuddin-2001/WebMind">WebMind ↗</a></b><br/>
-    Privacy-focused web assistant using locally-hosted LLMs; built to understand retrieval, orchestration, and controlled tool use.
-  </li>
-  <br/>
-  <li>
-    <b><a href="https://github.com/Burhanuddin-2001/W0RM-simulator">W0RM-simulator ↗</a></b><br/>
-    Controlled worm-behavior simulation to study replication patterns and failure modes in a safe sandbox.
-  </li>
-  <br/>
-  <li>
-    <b><a href="https://github.com/Burhanuddin-2001/Wordlist_Generator">Wordlist_Generator (CLI) ↗</a></b><br/>
-    Target-driven password auditing wordlists from a short seed list + reconnaissance-derived traits (repeatable, controlled expansion).
-  </li>
-  <br/>
-  <li>
-    <b><a href="https://github.com/Burhanuddin-2001/TCPDUMP-Playbook-A-Hands-On-Guide-to-Network-Traffic-Analysis">TCPDUMP Playbook ↗</a></b><br/>
-    Hands-on network traffic analysis notes (tcpdump) for learning how real traffic behaves.
-  </li>
-  <br/>
-  <li>
-    <b><a href="https://github.com/Burhanuddin-2001/Offliner-Youtube-Downloader-Version-0.2">Offliner (Windows Tkinter GUI) ↗</a></b><br/>
-    Offline YouTube downloader built to reduce recommendation-driven distraction and procrastination (local, simple workflow).
-  </li>
-</ul>
+<p><b>Other builds:</b>
+<a href="https://github.com/Burhanuddin-2001/TapticMusic">TapticMusic</a> (C#/WinUI 3 offline music player) ·
+<a href="https://github.com/Burhanuddin-2001/Offliner-Youtube-Downloader-Version-0.2">Offliner</a> (Tkinter YouTube downloader)
+</p>
 
 <hr/>
 
@@ -74,6 +98,9 @@ Security is the lens; systems are the playground. I don’t just use tools—I b
 </p>
 
 <p align="left">
+  <a href="https://tryhackme.com/p/Burhanuddin" target="_blank">
+    <img alt="TryHackMe" src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" />
+  </a>
   <a href="https://www.hackerrank.com/burhanuddin12201" target="_blank">
     <img alt="HackerRank" src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
   </a>
@@ -88,10 +115,10 @@ Security is the lens; systems are the playground. I don’t just use tools—I b
   <summary><b>🔒 Certifications & Expertise (visual)</b></summary>
   <br/>
   <p align="left">
-    <img src="https://github.com/Burhanuddin-2001/Badges/blob/main/google%20cybersecurity%20badge.png" width="90px" height="90px" alt="Google Cybersecurity" />
-    <img src="https://github.com/Burhanuddin-2001/Badges/blob/main/redhat%20system%20administrator%20badge.png" width="90px" height="90px" alt="Red Hat System Administrator" />
-    <img src="https://github.com/Burhanuddin-2001/Badges/blob/main/Docker_Essentials_-_ISDN.png" width="90px" height="90px" alt="Docker Essentials" />
-    <img src="https://github.com/Burhanuddin-2001/Badges/blob/main/I2CS__1_.png" width="90px" height="90px" alt="I2CS" />
-    <img src="https://github.com/Burhanuddin-2001/Badges/blob/main/Networking_Basics_badge.png" width="90px" height="90px" alt="Network Basics" />
+    <img src="https://github.com/Burhanuddin-2001/Badges/blob/main/google%20cybersecurity%20badge.png?raw=true" width="90px" height="90px" alt="Google Cybersecurity" />
+    <img src="https://github.com/Burhanuddin-2001/Badges/blob/main/redhat%20system%20administrator%20badge.png?raw=true" width="90px" height="90px" alt="Red Hat System Administrator" />
+    <img src="https://github.com/Burhanuddin-2001/Badges/blob/main/Docker_Essentials_-_ISDN.png?raw=true" width="90px" height="90px" alt="Docker Essentials" />
+    <img src="https://github.com/Burhanuddin-2001/Badges/blob/main/I2CS__1_.png?raw=true" width="90px" height="90px" alt="I2CS" />
+    <img src="https://github.com/Burhanuddin-2001/Badges/blob/main/Networking_Basics_badge.png?raw=true" width="90px" height="90px" alt="Network Basics" />
   </p>
 </details>
